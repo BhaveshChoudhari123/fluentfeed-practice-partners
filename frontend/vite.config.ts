@@ -7,7 +7,7 @@ export default defineConfig({
   preview: {
     host: "0.0.0.0",
     allowedHosts: [
-      "glorious-kindness-production-6a9d.up.railway.app",
+      "glorious-kindness-production-a8ad.up.railway.app",
     ],
   },
 });
