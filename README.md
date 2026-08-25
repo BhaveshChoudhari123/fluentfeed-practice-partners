@@ -2,7 +2,7 @@
 
 A full-stack prototype for the FluentFeed English Practice Partners assignment.
 
-## What is included
+## What is included:
 
 - React + TypeScript + Tailwind CSS frontend
 - Node.js + Express backend
