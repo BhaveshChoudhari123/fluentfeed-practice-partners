@@ -1,4 +1,4 @@
-# FluentFeed — Practice Partners
+# FluentFeed — Practice Partners:
 
 A full-stack prototype for the FluentFeed English Practice Partners assignment.
 
